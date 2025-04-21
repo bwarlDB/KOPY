@@ -1,0 +1,8 @@
+<BAT>
+echo Merhaba, bu bir BAT testidir.
+pause
+</BAT>
+
+<VBS>
+MsgBox "Bu bir VBS testidir"
+</VBS>
